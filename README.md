@@ -25,7 +25,13 @@ I'm **Arnold Sujan Katru**, a passionate student at **Brigham Young University -
  
 
 **Skills**:  
-- Team leadership & collaboration | Problem-solving under pressure  
+- Team Leadership & Collaboration
+
+- Problem-Solving Under Pressure
+
+- Attention to Detail & Patience
+
+- Fast-Paced Decision Making
 
 
 ---
