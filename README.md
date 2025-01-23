@@ -14,12 +14,15 @@ I'm **Arnold Sujan Katru**, a passionate student at **Brigham Young University -
 ---
 
 ## 🛠️ Technologies & Tools
+[![My Skills](https://skillicons.dev/icons?i=nodejs,css,html,nextjs,react,python,mysql,git,ts)](https://skillicons.dev)
 
 **Proficient In**:  
-- **Web**: HTML/CSS, JavaScript, WordPress  
-- **Languages**: Python, Java  
-- **Databases**: MongoDB, MySQL  
-- **Tools**: Git, Responsive Design, REST APIs  
+- **Web**: HTML,CSS, JavaScript 
+- **Languages**: Python 
+- **Databases**: MongoDB, MySQL 
+
+- **Tools**: Git, Responsive Design, REST APIs 
+ 
 
 **Skills**:  
 - Team leadership & collaboration | Problem-solving under pressure  
@@ -43,3 +46,4 @@ I'm **Arnold Sujan Katru**, a passionate student at **Brigham Young University -
  [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-sujan-katru) [![](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white)](arnoldsujankatru@gmail.com) [![](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/bablu_askhope?igsh=MWFsYzNudzJqendxNw%3D%3D&utm_source=qr)
 
 🔍 Explore my repositories below, and let’s collaborate to build something amazing!  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askhope&show_icons=true&theme=cobalt)
