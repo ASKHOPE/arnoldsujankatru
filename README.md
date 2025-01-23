@@ -40,8 +40,6 @@ I'm **Arnold Sujan Katru**, a passionate student at **Brigham Young University -
 ---
 
 ## 📬 Let’s Connect!  
- [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-sujan-katru)
-
- [![](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white)](arnoldsujankatru@gmail.com)
+ [![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-sujan-katru) [![](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white)](arnoldsujankatru@gmail.com) [![](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/bablu_askhope?igsh=MWFsYzNudzJqendxNw%3D%3D&utm_source=qr)
 
 🔍 Explore my repositories below, and let’s collaborate to build something amazing!  
