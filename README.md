@@ -57,7 +57,3 @@ I'm **Arnold Sujan Katru**, a Software Development graduate from **Brigham Young
 🔍 Explore my repositories below, and let’s collaborate to build something amazing!  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=askhope&show_icons=true&theme=cobalt)
 
-
-🔍 Browse my repositories below and let’s build something impactful together!
-
-![Arnold's GitHub stats](https://github-readme-stats.vercel.app/api?username=askhope&show_icons=true&theme=cobalt)
